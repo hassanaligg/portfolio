@@ -40,9 +40,8 @@ Multi-audience healthcare platform for **patients, professionals, and facilities
 - ▶️ Play Store: (https://apps.apple.com/us/app/dha/id6471334093)
 - 🎨 Figma / Design: (https://www.figma.com/design/x1hqL31D6TL7qiYpG1t2G0/DHA-Mobile-App-Public-Health-Record-?node-id=5494-22416&p=f) 
 - 📸 Screenshots:  
-  ![DHA Cover](assets/dha/cover.png)  
-  ![DHA Module 1](assets/dha/module-1.png)  
-  ![DHA Module 2](assets/dha/module-2.png)
+## sceenshots
+<img src="assets/DHA/Login_Screen.png" width = 750> 
 
 ---
 
