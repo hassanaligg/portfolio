@@ -37,8 +37,8 @@ Multi-audience healthcare platform for **patients, professionals, and facilities
 - Robust analytics/in-app events for product decisions
 
 **Links:**  
-- ▶️ Play Store: _add link_  
-- 🎨 Figma / Design: _add link_  
+- ▶️ Play Store: (https://apps.apple.com/us/app/dha/id6471334093)
+- 🎨 Figma / Design: (https://www.figma.com/design/x1hqL31D6TL7qiYpG1t2G0/DHA-Mobile-App-Public-Health-Record-?node-id=5494-22416&p=f) 
 - 📸 Screenshots:  
   ![DHA Cover](assets/dha/cover.png)  
   ![DHA Module 1](assets/dha/module-1.png)  
@@ -57,8 +57,9 @@ On-demand pharmacy & care: prescription refills, product reorders, **home blood 
 - Resilient network layer with graceful error handling
 
 **Links:**  
-- ▶️ Play Store: _add link_  
-- 🎨 Figma / Design: _add link_  
+- ▶️ Play Store: (https://apps.apple.com/us/app/dawaa-24/id1563905634)  
+- 🎨 Figma / Design: (https://www.figma.com/design/3n4T1J9wusAJRHgsaHwK4w/Dawaa24?node-id=0-1&p=f)
+- Website: (https://dawaa24.com/)
 - 📸 Screenshots:  
   ![Dawaa Cover](assets/dawaa/cover.png)  
   ![Dawaa Flow](assets/dawaa/flow.png)
