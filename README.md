@@ -53,6 +53,7 @@ On-demand pharmacy & care: prescription refills, product reorders, **home blood 
 **My role:** Spearheaded the app architecture, performance optimization, and release pipeline.  
 **Tech:** Flutter, Maps/Location, Payments, Push Notifications, Clean Architecture, Azure DevOps  
 **Highlights:**
+- **In-app real-time chat with pharmacies via Agora** (message delivery status, typing indicators, read receipts,media types)
 - Smooth cart/checkout with secure payments
 - Location-aware service routing and status updates
 - Resilient network layer with graceful error handling
