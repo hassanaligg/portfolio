@@ -80,7 +80,7 @@ On-demand pharmacy & care: prescription refills, product reorders, **home blood 
 
 ---
 
-### 4) **THRIFT — Internet Banking (MFSYS)**
+### 4) **INCLUDE — Internet Banking (MFSYS)**
 Retail internet banking with **transfers, beneficiary management, statements**, and secure session handling. Production deployments at **BEMO** and **FMFI**.
 
 **My role:** Sole developer for the mobile app; handled security, UX, and store release.  
