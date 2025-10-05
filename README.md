@@ -41,8 +41,8 @@ Multi-audience healthcare platform for **patients, professionals, and facilities
 - 🎨 Figma / Design: (https://www.figma.com/design/x1hqL31D6TL7qiYpG1t2G0/DHA-Mobile-App-Public-Health-Record-?node-id=5494-22416&p=f) 
 - 📸 Screenshots:  
 <img src="assets/DHA/Landing_Page.png" width = 300> <img src="assets/DHA/Login_Screen.png" width = 300> 
-<img src="assets/DHA/Health_Wellness.png" width = 300> <img src="assets/DHA/Dashboard_Professional.png" width = 300> 
-<img src="assets/DHA/Facility_Owner_profile.png" width = 300> <img src="assets/DHA/Dashboard_FacilityOwner.png" width = 300> 
+<img src="assets/DHA/Facility_Owner_profile.png" width = 300><img src="assets/DHA/Health_Wellness.png" width = 300> 
+<img src="assets/DHA/Dashboard_Professional.png" width = 300> <img src="assets/DHA/Dashboard_FacilityOwner.png" width = 300> 
 
 
 ---
