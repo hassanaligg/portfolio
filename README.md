@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hassan Ali — Flutter | Android | Clean Architecture</h1>
+<h1 align="center">Hassan Ali — Mobile App Developer </h1>
 <p align="center">
   <a href="mailto:r.hassanali14@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/hassan-ali-a08531131" target="_blank">LinkedIn</a>
@@ -40,10 +40,9 @@ Multi-audience healthcare platform for **patients, professionals, and facilities
 - ▶️ Play Store: (https://apps.apple.com/us/app/dha/id6471334093)
 - 🎨 Figma / Design: (https://www.figma.com/design/x1hqL31D6TL7qiYpG1t2G0/DHA-Mobile-App-Public-Health-Record-?node-id=5494-22416&p=f) 
 - 📸 Screenshots:  
-## sceenshots
 <img src="assets/DHA/Landing_Page.png" width = 300> <img src="assets/DHA/Login_Screen.png" width = 300> 
-<img src="assets/DHA/Health_Wellness.png" width = 300> <img src="assets/DHA/Facility_Owner_profile.png" width = 300> 
-<img src="assets/DHA/Dashboard_Professional.png" width = 300> <img src="assets/DHA/Dashboard_FacilityOwner.png" width = 300> 
+<img src="assets/DHA/Health_Wellness.png" width = 300> <img src="assets/DHA/Dashboard_Professional.png" width = 300> 
+<img src="assets/DHA/Facility_Owner_profile.png" width = 300> <img src="assets/DHA/Dashboard_FacilityOwner.png" width = 300> 
 
 
 ---
@@ -77,11 +76,7 @@ On-demand pharmacy & care: prescription refills, product reorders, **home blood 
 - Deployed to multiple banks (e.g., **BEMO (Syria), FMFI (Madagascar)**)
 
 **Links:**  
-- Case Study / Write-up: _add link_  
-- 🎨 Figma: _add link_  
-- 📸 Screenshots:  
-  ![Ciihive Cover](assets/ciihive/cover.png)  
-  ![Ciihive Forms](assets/ciihive/forms.png)
+- Website - https://www.ciihive.com/
 
 ---
 
@@ -96,34 +91,31 @@ Retail internet banking with **transfers, beneficiary management, statements**, 
 - Hardened auth with token rotation and biometric unlock
 
 **Links:**  
-- ▶️ Play Store: _add link_  
-- 📸 Screenshots:  
-  ![THRIFT Cover](assets/thrift/cover.png)  
-  ![THRIFT Transfer](assets/thrift/transfer.png)
+- Details : (https://mfsys.ca/include-mobile-banking/#:~:text=INCLUDE%20is%20an%20advance%20mobile,type%20of%20mobile%20banking%20requirements.)  
 
 ---
 
 ## 📱 Grapes Projects (Utilities & Tools)
 
 - **Satellite Map & Navigation** — realtime routing, POIs, geofencing  
-  _Play Store:_ add link • _Figma:_ add link • `assets/grapes/map/*.png`
+  _Play Store: (https://play.google.com/store/apps/details?id=com.live.streetview.navigation.earthmap.compass.map&hl=en)
 
 - **Object Remover (Photo Editor)** — remove objects/backgrounds, quick retouch  
-  _Play Store:_ add link • `assets/grapes/object-remover/*.png`
+  _Play Store: (https://play.google.com/store/apps/details?id=com.objectremover.removeunwantedobject.touchretouch)
 
 - **To-Do & Daily Reminder** — recurring reminders, priorities, snooze  
-  _Play Store:_ add link • `assets/grapes/todo/*.png`
+  _Play Store: (https://play.google.com/store/apps/details?id=com.todolist.tasks.dayplanner.dailyreminder&hl=en)
 
 - **Weather Forecast & Daily Updates** — hourly/daily, alerts, widgets  
-  _Play Store:_ add link • `assets/grapes/weather/*.png`
+  _Play Store: (https://play.google.com/store/apps/details?id=com.weather.forecast.daily.updates&hl=en)
 
 - **Document Reader & Viewer** — PDFs/Docs with bookmarks & search  
-  _Play Store:_ add link • `assets/grapes/docs/*.png`
+  _Play Store: (https://play.google.com/store/apps/details?id=com.all.documents.files.reader.documentfiles.viewer&hl=en)
 
 ---
 
 ## Skills & Tooling
-**Languages/Frameworks:** Flutter, Dart, Kotlin, Android (Jetpack Compose), Java, Swift/Obj-C  
+**Languages/Frameworks:** Flutter, Dart, Kotlin, Android (Jetpack Compose,XML), Java, Swift/Obj-C  
 **Architectures:** MVC, MVP, MVVM, **Clean Architecture**, BLoC, Provider, Riverpod  
 **Mobile Tech:** REST/GraphQL, Firebase/FCM, Room/Realm/SQLite, Secure Storage, Biometrics  
 **Security:** OAuth, JWT, encryption, obfuscation  
@@ -135,5 +127,3 @@ Retail internet banking with **transfers, beneficiary management, statements**, 
 ## Contact
 - 📧 r.hassanali14@gmail.com  
 - 🔗 <a href="https://linkedin.com/in/hassan-ali-a08531131" target="_blank">linkedin.com/in/hassan-ali-a08531131</a>
-
-> *Screenshots live under the `assets/` folder in this repo. Replace the “add link” placeholders with actual Play Store / Figma links. All client names and deployments referenced are those I’ve worked with as part of my employment engagements.*
