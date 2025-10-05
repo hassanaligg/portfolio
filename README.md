@@ -41,7 +41,7 @@ Multi-audience healthcare platform for **patients, professionals, and facilities
 - 🎨 Figma / Design: (https://www.figma.com/design/x1hqL31D6TL7qiYpG1t2G0/DHA-Mobile-App-Public-Health-Record-?node-id=5494-22416&p=f) 
 - 📸 Screenshots:  
 ## sceenshots
-<img src="assets/DHA/Login_Screen.png" width = 300> <img src="assets/DHA/Landing_Page.png" width = 300> 
+<img src="assets/DHA/Landing_Page.png" width = 300> <img src="assets/DHA/Login_Screen.png" width = 300> 
 <img src="assets/DHA/Health_Wellness.png" width = 300> <img src="assets/DHA/Facility_Owner_profile.png" width = 300> 
 <img src="assets/DHA/Dashboard_Professional.png" width = 300> <img src="assets/DHA/Dashboard_FacilityOwner.png" width = 300> 
 
@@ -63,8 +63,7 @@ On-demand pharmacy & care: prescription refills, product reorders, **home blood 
 - 🎨 Figma / Design: (https://www.figma.com/design/3n4T1J9wusAJRHgsaHwK4w/Dawaa24?node-id=0-1&p=f)
 - Website: (https://dawaa24.com/)
 - 📸 Screenshots:  
-<img src="assets/Dawaa/welcome.jpeg" width = 300> <img src="assets/Dawaa/Home_Guest.png" width = 300> 
-<img src="assets/Dawaa/chat.png" width = 300>
+<img src="assets/Dawaa/welcome.jpeg" width = 300> <img src="assets/Dawaa/Home_Guest.png" width = 300> <img src="assets/Dawaa/chat.png" width = 300>
 ---
 
 ### 3) **Ciihive — Dynamic Banking Workspace (MFSYS)**
