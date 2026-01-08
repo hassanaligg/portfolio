@@ -34,14 +34,14 @@ Dynamic mobile app developer with 5+ years of experience across healthtech, fint
 Multi-audience healthcare platform for **patients, professionals, and facilities**—modules include medication management, lab reports, preventive care, facility & smart pharmacy search, complaints/feedback, insurance, and licensing.
 
 **My role:** Led mobile engineering end-to-end; coordinated directly with DHA; ensured seamless module integration and performance hardening.  
-**Tech:** Flutter, REST/GraphQL, Firebase/FCM, Secure Storage (biometrics), Clean Architecture, CI/CD  
+**Tech:** REST/GraphQL, Firebase/FCM, Secure Storage (biometrics), Clean Architecture, CI/CD  
 **Highlights:**
 - Scalable module architecture for rapid feature delivery
 - Strong security (encryption, biometric auth) and offline-first UX
 - Robust analytics/in-app events for product decisions
 
 **Links:**  
-- ▶️ Play Store: (https://apps.apple.com/us/app/dha/id6471334093)
+- ▶️ App Store: (https://apps.apple.com/us/app/dha/id6471334093)
 - 🎨 Figma / Design: (https://www.figma.com/design/x1hqL31D6TL7qiYpG1t2G0/DHA-Mobile-App-Public-Health-Record-?node-id=5494-22416&p=f) 
 - 📸 Screenshots:  
 <img src="assets/DHA/Landing_Page.png" width = 400> <img src="assets/DHA/Login_Screen.png" width = 400> 
@@ -55,7 +55,7 @@ Multi-audience healthcare platform for **patients, professionals, and facilities
 On-demand pharmacy & care: prescription refills, product reorders, **home blood sample** collection, doctor discovery by symptoms—UX inspired by modern delivery apps.
 
 **My role:** Spearheaded the app architecture, performance optimization, and release pipeline.  
-**Tech:** Flutter, Maps/Location, Payments, Push Notifications, Clean Architecture, Azure DevOps  
+**Tech:** Maps/Location, Payments, Push Notifications, Clean Architecture, Azure DevOps  
 **Highlights:**
 - **In-app real-time chat with pharmacies via Agora** (message delivery status, typing indicators, read receipts,media types)
 - Smooth cart/checkout with secure payments
@@ -63,7 +63,7 @@ On-demand pharmacy & care: prescription refills, product reorders, **home blood 
 - Resilient network layer with graceful error handling
 
 **Links:**  
-- ▶️ Play Store: (https://apps.apple.com/us/app/dawaa-24/id1563905634)  
+- ▶️ App Store: (https://apps.apple.com/us/app/dawaa-24/id1563905634)  
 - 🎨 Figma / Design: (https://www.figma.com/design/3n4T1J9wusAJRHgsaHwK4w/Dawaa24?node-id=0-1&p=f)
 - Website: (https://dawaa24.com/)
 - 📸 Screenshots:  
@@ -74,7 +74,7 @@ On-demand pharmacy & care: prescription refills, product reorders, **home blood 
 **Metadata-driven** super-app for bank employees: CRM, loans, deposits, term deposits, blacklisting, and more—**dynamic forms** and modules rendered from metadata for rapid updates without full releases.
 
 **My role:** Maintained & enhanced the metadata runtime; enforced clean architecture & best practices.  
-**Tech:** Flutter, Secure Auth (OAuth/JWT), Encrypted Storage, Room/SQLite, REST/Swagger  
+**Tech:** Secure Auth (OAuth/JWT), Encrypted Storage, Couch DB, REST/Swagger  
 **Highlights:**
 - Dynamic form designer ➜ render UI from metadata
 - Modular domain layers for easy feature toggles
@@ -89,7 +89,6 @@ On-demand pharmacy & care: prescription refills, product reorders, **home blood 
 Retail internet banking with **transfers, beneficiary management, statements**, and secure session handling. Production deployments at **BEMO** and **FMFI**.
 
 **My role:** Sole developer for the mobile app; handled security, UX, and store release.  
-**Tech:** Flutter, Kotlin bridges (where needed), Secure Networking, CI/CD  
 **Highlights:**
 - Seamless money transfer flows & beneficiary UX
 - High-usability statements and transaction history
