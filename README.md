@@ -99,7 +99,8 @@ Retail internet banking with **transfers, beneficiary management, statements**, 
 
 ---
 
-## 📱 Grapes Projects (Utilities & Tools)
+## 📱 Grapes Games 
+Utilities & Tools
 
 - **Satellite Map & Navigation** — realtime routing, POIs, geofencing  
   _Play Store: (https://play.google.com/store/apps/details?id=com.live.streetview.navigation.earthmap.compass.map&hl=en)
